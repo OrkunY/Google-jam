@@ -60,7 +60,7 @@ public class ObjectSpawner : MonoBehaviour
         if (col.gameObject.CompareTag("Collectible"))
         {
             Destroy(col.gameObject);
-            //_audio.Play();
+            _audio.Play();
             totalScore--;
             score.text = totalScore.ToString();
         }
