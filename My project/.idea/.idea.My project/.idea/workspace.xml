@@ -2,14 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0720b1b-fba3-4eb4-95bc-665f4bd20cd9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Lab_9.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Materials/Lab_1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/Materials/Lab_1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class04.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class05.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class06.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class07.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class08.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class09.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class11.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class12.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class13.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class14.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/sınıf/class15.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Ando Yamada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Ando Yamada.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Jinpei Jiba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Jinpei Jiba.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Kanichi Okehazama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Kanichi Okehazama.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Kinya Daiouji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Kinya Daiouji.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Mai Chouno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Mai Chouno.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Natsuki Enra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Natsuki Enra.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Ranto Kirigakure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Ranto Kirigakure.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Sandayuu Koma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Character/Nintendo Switch - Y School Heroes Bustlin School Life - Sandayuu Koma.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/miniGameKimya.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/miniGameKimya.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/miniGameStadyum.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/miniGameStadyum.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/minigameMüzik.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/minigameMüzik.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/gitar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/gitar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/kitap cilt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/kitap cilt.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/org.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/org.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/poision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/poision.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/saat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/saat.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Lab_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Lab_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tiles/tile_0253.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/tile_0253.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tiles/tile_0283.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/tile_0283.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MiniGameMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectSpawner.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -19,22 +113,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\ibrahim\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\ibrahim\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\ibrahim\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\ibrahim\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\ibrahim\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\ibrahim\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe" />
@@ -81,7 +175,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680908857570</updated>
-      <workItem from="1680908859300" duration="4162000" />
+      <workItem from="1680908859300" duration="4639000" />
+      <workItem from="1680937144787" duration="1956000" />
+      <workItem from="1680941140057" duration="6000" />
+      <workItem from="1680941988701" duration="10964000" />
     </task>
     <servers />
   </component>
