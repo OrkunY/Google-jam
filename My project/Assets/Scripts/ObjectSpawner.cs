@@ -11,9 +11,12 @@ public class ObjectSpawner : MonoBehaviour
     public float spawnTimer;
     private float _spawnTimer;
     public GameObject objectToSpawn;
+    public GameObject objectToSpawn2;
     public Transform[] spawnPoints;
     public int amountOfSpawmPoints;
     private int chosenSpawnPoints;
+    private int chosenSpawnPoints2;
+
 
     private float delay = 4f;
     
@@ -44,8 +47,12 @@ public class ObjectSpawner : MonoBehaviour
     public void Spawn()
     {
         chosenSpawnPoints = Random.Range(0, amountOfSpawmPoints);
+        chosenSpawnPoints2 = Random.Range(0, amountOfSpawmPoints);
+
         Instantiate(objectToSpawn.transform, spawnPoints[chosenSpawnPoints].transform.position, Quaternion.identity);
+        Instantiate(objectToSpawn2.transform, spawnPoints[chosenSpawnPoints2].transform.position, Quaternion.identity);
         spawnTimer = _spawnTimer;
+
     }
 
     private void OnTriggerEnter2D(Collider2D col)
