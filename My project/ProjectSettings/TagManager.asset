@@ -4,12 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
-  - scorer
   - engel
-=======
-  - Collectible
->>>>>>> d3011783be739658358622200856e1284da0e010
+  - scorer
   layers:
   - Default
   - TransparentFX
@@ -47,24 +43,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Tilemap
-    uniqueID: 1730207555
-    locked: 0
-  - name: Yol
-    uniqueID: 1554810189
-    locked: 0
-  - name: Bina
-    uniqueID: 3186328339
-    locked: 0
-  - name: Detay
-    uniqueID: 3073776795
-    locked: 0
   - name: Background
-    uniqueID: 4288830095
+    uniqueID: 1743367421
     locked: 0
   - name: Midground
-    uniqueID: 947672627
+    uniqueID: 2654633943
     locked: 0
   - name: Foreground
-    uniqueID: 2990447959
+    uniqueID: 533801833
     locked: 0
