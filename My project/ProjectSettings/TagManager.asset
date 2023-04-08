@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tilemap
+    uniqueID: 1730207555
+    locked: 0
+  - name: Yol
+    uniqueID: 1554810189
+    locked: 0
+  - name: Bina
+    uniqueID: 3186328339
+    locked: 0
+  - name: Detay
+    uniqueID: 3073776795
+    locked: 0
