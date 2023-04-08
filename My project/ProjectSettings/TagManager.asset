@@ -4,8 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
   - scorer
   - engel
+=======
+  - Collectible
+>>>>>>> d3011783be739658358622200856e1284da0e010
   layers:
   - Default
   - TransparentFX
