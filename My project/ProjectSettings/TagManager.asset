@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - scorer
+  - engel
   layers:
   - Default
   - TransparentFX
@@ -52,4 +54,13 @@ TagManager:
     locked: 0
   - name: Detay
     uniqueID: 3073776795
+    locked: 0
+  - name: Background
+    uniqueID: 4288830095
+    locked: 0
+  - name: Midground
+    uniqueID: 947672627
+    locked: 0
+  - name: Foreground
+    uniqueID: 2990447959
     locked: 0
