@@ -98,6 +98,7 @@ public class ObjectSpawner : MonoBehaviour
 
         if (totalScore == 0)
         {
+            CancelInvoke("Spawn");
             victoryMessage.SetActive(true);
             StartCoroutine(BacktoMainMap());
             //miniGame.SetActive(false);
@@ -112,6 +113,7 @@ public class ObjectSpawner : MonoBehaviour
     
     IEnumerator BacktoMainMap()
     {
+        
         yield return new WaitForSeconds(3);
         
         SceneManager.LoadScene(5);
