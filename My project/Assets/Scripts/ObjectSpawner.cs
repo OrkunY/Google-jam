@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using AudioManagerNM;
 using UnityEngine;
 using Random = UnityEngine.Random;
 using TMPro;
@@ -26,17 +27,27 @@ public class ObjectSpawner : MonoBehaviour
     [SerializeField]  GameObject miniGame;
     
     AudioSource _audio;
+    AudioManager _musicFiles;
+    private GameObject _music;
+    [SerializeField] private int Number;
 
     public void Start()
     {
         _spawnTimer = spawnTimer;
         _audio = GetComponent<AudioSource>();
         score.text = totalScore.ToString();
+        
+        _music = GameObject.Find("AudioManager");
+        _musicFiles = _music.GetComponent(typeof(AudioManager)) as AudioManager;
+        
+        
     }
 
 
     public void Update()
     {
+        Number = Random.Range(0,24);
+        
         if (spawnTimer > 0)
             spawnTimer -= 1 * Time.deltaTime;
         
@@ -61,6 +72,7 @@ public class ObjectSpawner : MonoBehaviour
         {
             Destroy(col.gameObject);
             //_audio.Play();
+            AudioSource.PlayClipAtPoint(_musicFiles.music[Number],gameObject.transform.position);
             totalScore--;
             score.text = totalScore.ToString();
         }
@@ -71,5 +83,7 @@ public class ObjectSpawner : MonoBehaviour
             miniGame.SetActive(false);
         }
     }
+
+    
 }
 
