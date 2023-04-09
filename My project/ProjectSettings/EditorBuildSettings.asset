@@ -9,7 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/jumpingBall.unity
     guid: 1e3b9fdb177341048938c1a2a35bc27f
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Scenes/miniGameStadyum.unity
     guid: 8300c1279bb375b4dbd89d5fc522f781
+=======
+    path: Assets/Scenes/miniGameKimya.unity
+    guid: d7c72c584cfc9ef4aa017f0e63fc4634
+  - enabled: 1
+    path: Assets/Scenes/miniGameMusicRoom.unity
+    guid: 6d9dca971ee565246b6911fe594697b0
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: a4523f57da5d76a4587bd2b0b80b3240
+>>>>>>> Stashed changes
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9c40a0a799fbfc94b9e46c46ad7e3b8e, type: 2}
