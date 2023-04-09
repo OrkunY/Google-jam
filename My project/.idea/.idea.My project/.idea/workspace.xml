@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b0720b1b-fba3-4eb4-95bc-665f4bd20cd9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/miniGameMusicRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/miniGameMusicRoom.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Lives.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Lives.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <workItem from="1680941140057" duration="6000" />
       <workItem from="1680941988701" duration="10964000" />
       <workItem from="1681025885938" duration="2840000" />
-      <workItem from="1681047851198" duration="421000" />
+      <workItem from="1681047851198" duration="2400000" />
     </task>
     <servers />
   </component>
