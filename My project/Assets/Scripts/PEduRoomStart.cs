@@ -7,6 +7,6 @@ public class PEduRoomStart : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D col)
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 }

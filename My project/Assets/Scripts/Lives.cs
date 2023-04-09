@@ -70,7 +70,7 @@ public class Lives : MonoBehaviour
     }
     void RestartLevel() 
     {
-        SceneManager.LoadScene(4); 
+        SceneManager.LoadScene(7); 
     }
 
     

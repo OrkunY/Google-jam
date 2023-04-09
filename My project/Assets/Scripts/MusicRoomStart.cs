@@ -8,6 +8,6 @@ public class MusicRoomStart : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D col)
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(6);
     }
 }
