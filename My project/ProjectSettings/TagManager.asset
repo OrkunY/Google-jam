@@ -7,10 +7,6 @@ TagManager:
   - engel
   - scorer
   - Collectible
-<<<<<<< Updated upstream
-=======
-  - Bullet
->>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
