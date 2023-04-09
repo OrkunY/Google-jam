@@ -5,8 +5,6 @@ using AudioManagerNM;
 using UnityEngine;
 using Random = UnityEngine.Random;
 using TMPro;
-using UnityEngine.SceneManagement;
-
 
 public class ObjectSpawner : MonoBehaviour
 {
@@ -15,20 +13,15 @@ public class ObjectSpawner : MonoBehaviour
     private float _spawnTimer;
     public GameObject objectToSpawn;
     public GameObject objectToSpawn2;
-    
     public Transform[] spawnPoints;
     public int amountOfSpawmPoints;
-    public int amountOfSpawmPoints2;
-    
     private int chosenSpawnPoints;
     private int chosenSpawnPoints2;
-    
 
 
     private float delay = 4f;
     
     public  int totalScore = 25;
-    
     [SerializeField] TextMeshProUGUI score;
     [SerializeField]  GameObject victoryMessage;
     [SerializeField]  GameObject miniGame;
@@ -38,14 +31,6 @@ public class ObjectSpawner : MonoBehaviour
     private GameObject _music;
     [SerializeField] private int Number;
 
-    private Scene _scene;
-
-    
-    private void Awake()
-    {
-        _scene = SceneManager.GetActiveScene();
-    }
-    
     public void Start()
     {
         _spawnTimer = spawnTimer;
@@ -61,7 +46,7 @@ public class ObjectSpawner : MonoBehaviour
 
     public void Update()
     {
-        Number = Random.Range(0,23); // range i kullandiginiz music dosyasi kadar ayarlayin
+        Number = Random.Range(0,24);
         
         if (spawnTimer > 0)
             spawnTimer -= 1 * Time.deltaTime;
@@ -73,12 +58,10 @@ public class ObjectSpawner : MonoBehaviour
     public void Spawn()
     {
         chosenSpawnPoints = Random.Range(0, amountOfSpawmPoints);
-        chosenSpawnPoints2 = Random.Range(0, amountOfSpawmPoints2);
-        
+        chosenSpawnPoints2 = Random.Range(0, amountOfSpawmPoints);
 
         Instantiate(objectToSpawn.transform, spawnPoints[chosenSpawnPoints].transform.position, Quaternion.identity);
         Instantiate(objectToSpawn2.transform, spawnPoints[chosenSpawnPoints2].transform.position, Quaternion.identity);
-        
         spawnTimer = _spawnTimer;
 
     }
@@ -94,27 +77,11 @@ public class ObjectSpawner : MonoBehaviour
             score.text = totalScore.ToString();
         }
 
-        
-
         if (totalScore == 0)
         {
             victoryMessage.SetActive(true);
-            StartCoroutine(BacktoMainMap());
-            //miniGame.SetActive(false);
-            
-
+            miniGame.SetActive(false);
         }
-        
-        
-
-        
-    }
-    
-    IEnumerator BacktoMainMap()
-    {
-        yield return new WaitForSeconds(5);
-        
-        SceneManager.LoadScene(3);
     }
 
     
