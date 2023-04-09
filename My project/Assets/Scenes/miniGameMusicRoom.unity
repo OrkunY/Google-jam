@@ -158,7 +158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -519, y: 53}
+  m_AnchoredPosition: {x: -437.5, y: 26.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &76381410
@@ -183,8 +183,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Lives:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
+  m_sharedMaterial: {fileID: -2419676677300340315, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1127,7 +1127,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 518.2, y: 132}
+  m_AnchoredPosition: {x: 470.5, y: 114.6}
   m_SizeDelta: {x: 31.457, y: 17.3266}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &222379040
@@ -1213,7 +1213,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -74.2124, w: 0}
+  m_margin: {x: 0, y: 0, z: -74.2124, w: -38.805603}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1683,8 +1683,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 428, y: -430}
-  m_SizeDelta: {x: 180.6462, y: 11.2491}
+  m_AnchoredPosition: {x: 395.4, y: -386.1}
+  m_SizeDelta: {x: 180.2467, y: 31.2246}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &316388759
 MonoBehaviour:
@@ -1706,7 +1706,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'SINIFI GECMEK ICIN TOPLAMAN GEREKEN PUAN:'
+  m_text: "points to passing class\r :\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
   m_sharedMaterial: {fileID: -2419676677300340315, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
@@ -4586,7 +4586,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 825284016}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.754, y: 0.445, z: 0}
+  m_LocalPosition: {x: 3.867, y: 0.368, z: 0}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -7142,7 +7142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnTimer: 1.5
-  bullet: {fileID: 7555158001125542924, guid: 403b015cb87f01c4a9fc5a1f9121c4e0, type: 3}
+  bullet: {fileID: 47511483076348049, guid: 563bde6433fadc6479898df388c3216f, type: 3}
   spawnPoints:
   - {fileID: 1798605321}
   - {fileID: 1169285883}
@@ -8277,7 +8277,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -794.2, y: -474.1}
+  m_AnchoredPosition: {x: -697.2, y: -417.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1606200626
@@ -8300,9 +8300,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'MUZIK
+  m_text: 'MUSIC
 
-    SINIFI'
+    CLASS'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b067edac31f5662478e836bae273f1b1, type: 2}
   m_sharedMaterial: {fileID: 724700372940724752, guid: b067edac31f5662478e836bae273f1b1, type: 2}
@@ -9957,7 +9957,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -415, y: 48}
+  m_AnchoredPosition: {x: -261.1, y: 27.2}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1867870311
@@ -9982,8 +9982,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 3
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
+  m_sharedMaterial: {fileID: -2419676677300340315, guid: 15b88ae7bac8987449626b2916e9574b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
