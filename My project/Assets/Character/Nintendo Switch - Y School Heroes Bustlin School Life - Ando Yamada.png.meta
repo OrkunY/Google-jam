@@ -113,7 +113,7 @@ TextureImporter:
         width: 42
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,6 +121,27 @@ TextureImporter:
       bones: []
       spriteID: 5ca7f8324f9064e458fab19b10a8e53b
       internalID: -1268557723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Y School Heroes Bustlin School Life - Ando Yamada_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5801f3e9c6d3e94a834376da91cee8e
+      internalID: -1827939025
       vertices: []
       indices: 
       edges: []
@@ -136,6 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Nintendo Switch - Y School Heroes Bustlin School Life - Ando Yamada_1: -1827939025
       Nintendo Switch - Y School Heroes Bustlin School Life - Ando Yamada_0: -1268557723
   spritePackingTag: 
   pSDRemoveMatte: 0

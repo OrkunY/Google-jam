@@ -113,7 +113,7 @@ TextureImporter:
         width: 60
         height: 104
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,6 +121,27 @@ TextureImporter:
       bones: []
       spriteID: cd800aa4365e4bc45a7704a91eadd61e
       internalID: 2031788303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Y School Heroes Bustlin School Life - Mai Chouno_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f9cb3e21d23a428825e945a18e6d6
+      internalID: -1408012823
       vertices: []
       indices: 
       edges: []
@@ -136,6 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Nintendo Switch - Y School Heroes Bustlin School Life - Mai Chouno_1: -1408012823
       Nintendo Switch - Y School Heroes Bustlin School Life - Mai Chouno_0: 2031788303
   spritePackingTag: 
   pSDRemoveMatte: 0
