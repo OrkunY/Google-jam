@@ -112,7 +112,7 @@ public class ObjectSpawner : MonoBehaviour
     
     IEnumerator BacktoMainMap()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(3);
         
         SceneManager.LoadScene(3);
     }
