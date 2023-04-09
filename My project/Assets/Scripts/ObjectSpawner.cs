@@ -116,7 +116,7 @@ public class ObjectSpawner : MonoBehaviour
         
         yield return new WaitForSeconds(3);
         
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(1);
     }
 
     
