@@ -6739,8 +6739,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnTimer: 2
-  objectToSpawn: {fileID: 8070038141695842195, guid: 5315f9d6f331f824ea89022cf6f45404, type: 3}
-  objectToSpawn2: {fileID: 1213505545008856303, guid: e4a07f93255cdce4fba479dc26eef6e6, type: 3}
+  objectToSpawn: {fileID: 7701072361402063614, guid: b950a6029f0c27240a22a62557b9b10b, type: 3}
+  objectToSpawn2: {fileID: 1992468029023920722, guid: 6a22519ee5a9959429fefdfe518bf921, type: 3}
   spawnPoints:
   - {fileID: 1798605321}
   - {fileID: 1169285883}
