@@ -113,7 +113,7 @@ TextureImporter:
         width: 57
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,6 +121,27 @@ TextureImporter:
       bones: []
       spriteID: 844c2b6a45c0a7c43a5e76262457d768
       internalID: -1945764511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Y School Heroes Bustlin School Life - Natsuki Enra_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17503c60c30b064eb8d77e88707ae26
+      internalID: -1319648463
       vertices: []
       indices: 
       edges: []
@@ -137,6 +158,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Nintendo Switch - Y School Heroes Bustlin School Life - Natsuki Enra_0: -1945764511
+      Nintendo Switch - Y School Heroes Bustlin School Life - Natsuki Enra_1: -1319648463
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
