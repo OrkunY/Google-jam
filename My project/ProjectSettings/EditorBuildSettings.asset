@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/miniGameStadyum.unity
     guid: 8300c1279bb375b4dbd89d5fc522f781
   - enabled: 1
+    path: Assets/Scenes/MusicRoomIntro.unity
+    guid: 873ce6e4600d48b428ae3a5fded741fa
+  - enabled: 1
     path: Assets/Scenes/miniGameMusicRoom.unity
     guid: 6d9dca971ee565246b6911fe594697b0
   - enabled: 1
