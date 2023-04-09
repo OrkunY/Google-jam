@@ -6894,7 +6894,7 @@ MonoBehaviour:
   - {fileID: 340802635}
   amountOfSpawmPoints: 12
   amountOfSpawmPoints2: 0
-  totalScore: 1
+  totalScore: 15
   score: {fileID: 222379040}
   victoryMessage: {fileID: 451333682}
   miniGame: {fileID: 1329664630}

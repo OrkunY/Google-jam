@@ -186,8 +186,8 @@ MonoBehaviour:
     the bombs and collect the musical notes.\" \n\n- Move your character using a-d
     keys -\nor arrow keys"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b067edac31f5662478e836bae273f1b1, type: 2}
-  m_sharedMaterial: {fileID: 724700372940724752, guid: b067edac31f5662478e836bae273f1b1, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d10895c908d41074c9e2108a2a60aef6, type: 2}
+  m_sharedMaterial: {fileID: 862220971131847574, guid: d10895c908d41074c9e2108a2a60aef6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -673,8 +673,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: START!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b067edac31f5662478e836bae273f1b1, type: 2}
-  m_sharedMaterial: {fileID: 724700372940724752, guid: b067edac31f5662478e836bae273f1b1, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d10895c908d41074c9e2108a2a60aef6, type: 2}
+  m_sharedMaterial: {fileID: 862220971131847574, guid: d10895c908d41074c9e2108a2a60aef6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
